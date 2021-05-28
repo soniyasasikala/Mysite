@@ -1,0 +1,18 @@
+.nav-item a{
+    color : #000;
+    }
+    .fab{
+        font-size: 18px;
+    }
+    .icon2 :hover{
+     color: red;
+    }
+    .icon3{
+        color: #17a2b8;
+    }
+    .icons{
+        border: 1px solid;
+        background: #220101;
+        padding: 6px;
+        border-radius: 18px;
+    }
